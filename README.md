@@ -24,3 +24,5 @@ I update this repository daily as I learn new concepts.
 ## 💡 Future Plans:
 - Build projects (login system, apps)
 - Learn AI & Machine Learning
+
+"The original content creator is CodeWithHarry, and I am a learner."
