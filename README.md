@@ -13,7 +13,11 @@ This repository documents my journey of learning Python step-by-step.
 - Conditionals
 - Loops
 - Strings
-- Functions, etc.
+- Functions
+- Modules
+- Data Structure
+- Object-Oriented Programming (OOP)
+- Advanced Python Concepts, etc.
 
 ## 🎯 Goal:
 To build strong Python fundamentals and move towards AI & advanced projects.
@@ -25,4 +29,6 @@ I update this repository daily as I learn new concepts.
 - Build projects (login system, apps)
 - Learn AI & Machine Learning
 
-"The original content creator is CodeWithHarry, and I am a learner."
+📌 Note
+The original content creator is CodeWithHarry,
+and I am a learner.
